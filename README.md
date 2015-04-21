@@ -4,7 +4,7 @@ Goal:
 
 Motivation:
 
-+ A cool application of this dimensionality reduction technique is the concept of eigenfaces, where a human face is reduced to a linear combination of a sample of faces. This is mechanism through which face recognition algorithms work.
++ A cool application of this dimensionality reduction technique is the concept of eigenfaces, where a human face is reduced to a linear combination of a sample of faces. This is a mechanism through which face recognition algorithms work.
 
 Overview:
 
@@ -12,4 +12,4 @@ Overview:
 
 Usage:
 
-$ python k_means.py <input_image_file> <number_of_means> [-cluster <cluster_size>] 
+$     python k_means.py <input_image_file> <number_of_means> [-cluster <cluster_size>] 
