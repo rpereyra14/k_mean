@@ -12,4 +12,4 @@ Overview:
 
 Usage:
 
-$     python k_means.py <input_image_file> <number_of_means>
+  $     python k_means.py <input_image_file> <number_of_means>
