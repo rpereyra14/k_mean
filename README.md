@@ -12,4 +12,4 @@ Overview:
 
 Usage:
 
-$     python k_means.py <input_image_file> <number_of_means> [-cluster < cluster_size >] 
+$     python k_means.py <input_image_file> <number_of_means>
