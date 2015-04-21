@@ -10,7 +10,7 @@ ITERATIONS = 20
 def main():
 
 	if len(sys.argv) != 3 and len(sys.argv) != 5:
-		print 'Usage: python k_means.py <input_image_file> <number_of_means> [-cluster <cluster_size>]'
+		print 'Usage: python k_means.py <input_image_file> <number_of_means>'
 		sys.exit( ERR )
 
 	im = Image.open( sys.argv[1] )
